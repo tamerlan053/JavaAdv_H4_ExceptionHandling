@@ -17,4 +17,3 @@ public class DemoOutOfMemory {
 		doom.generateOutOfMemory();
 	}
 }
-

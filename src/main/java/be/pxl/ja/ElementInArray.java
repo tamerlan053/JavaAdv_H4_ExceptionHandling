@@ -10,6 +10,7 @@ public class ElementInArray {
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("Kies een nummer: ");
+
 		int chosen = scanner.nextInt();
 		if (chosen >= 0 && chosen < elements.length) {
 			System.out.println(elements[chosen]);
